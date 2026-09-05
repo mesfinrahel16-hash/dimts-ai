@@ -1,0 +1,11 @@
+{
+  "name": "afrivoice-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AfriVoice AI TTS backend — zero external dependencies (Node built-ins only)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/**/*.test.js"
+  }
+}
